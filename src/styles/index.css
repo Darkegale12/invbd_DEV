@@ -1,0 +1,17 @@
+@import './fonts.css';
+@import './tailwind.css';
+@import './theme.css';
+@import 'leaflet/dist/leaflet.css';
+
+/* Leaflet zone label override */
+.zone-label {
+  background: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
+}
+
+.hotspot-label {
+  background: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
+}
