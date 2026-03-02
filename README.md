@@ -25,7 +25,7 @@ A real-time vector-borne disease risk assessment and operational guidance dashbo
 - **React 18** + **TypeScript**
 - **Vite** (build tool)
 - **Tailwind CSS v4**
-- **Leaflet** (interactive maps)
+- **Leaflet** (maps)
 - **Recharts** (data visualization)
 - **Lucide React** (icons)
 
