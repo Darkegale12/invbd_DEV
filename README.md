@@ -11,7 +11,7 @@ A real-time vector-borne disease risk assessment and operational guidance dashbo
 - **Map Center Control** — Jump to popular locations or enter custom lat/lng coordinates
 - **Basemap Toggle** — Switch between Streets (OpenStreetMap) and Satellite (Esri) basemaps
 - **Prevention Analytics Dashboard** — Full analytics with:
-  - KPI cards (cases, fogging ops, response time, sites eliminated)
+  - KPI card (cases, fogging ops, response time, sites eliminated)
   - Cases trend area chart (weekly)
   - Fogging operations bar chart by zone
   - Zone performance matrix table
